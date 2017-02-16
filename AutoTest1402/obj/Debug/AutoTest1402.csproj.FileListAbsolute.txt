@@ -1,0 +1,22 @@
+c:\users\hanna_makarava\documents\visual studio 2015\Projects\AutoTest1402\AutoTest1402\bin\Debug\AutoTest1402.dll
+c:\users\hanna_makarava\documents\visual studio 2015\Projects\AutoTest1402\AutoTest1402\bin\Debug\AutoTest1402.pdb
+c:\users\hanna_makarava\documents\visual studio 2015\Projects\AutoTest1402\AutoTest1402\bin\Debug\nunit.framework.dll
+c:\users\hanna_makarava\documents\visual studio 2015\Projects\AutoTest1402\AutoTest1402\bin\Debug\WebDriver.dll
+c:\users\hanna_makarava\documents\visual studio 2015\Projects\AutoTest1402\AutoTest1402\bin\Debug\WebDriver.Support.dll
+c:\users\hanna_makarava\documents\visual studio 2015\Projects\AutoTest1402\AutoTest1402\bin\Debug\nunit.framework.xml
+c:\users\hanna_makarava\documents\visual studio 2015\Projects\AutoTest1402\AutoTest1402\bin\Debug\WebDriver.xml
+c:\users\hanna_makarava\documents\visual studio 2015\Projects\AutoTest1402\AutoTest1402\bin\Debug\WebDriver.Support.xml
+c:\users\hanna_makarava\documents\visual studio 2015\Projects\AutoTest1402\AutoTest1402\obj\Debug\AutoTest1402.csprojResolveAssemblyReference.cache
+c:\users\hanna_makarava\documents\visual studio 2015\Projects\AutoTest1402\AutoTest1402\obj\Debug\AutoTest1402.dll
+c:\users\hanna_makarava\documents\visual studio 2015\Projects\AutoTest1402\AutoTest1402\obj\Debug\AutoTest1402.pdb
+d:\Projects\MyProjects\AutoTest1402\AutoTest1402\bin\Debug\AutoTest1402.dll
+d:\Projects\MyProjects\AutoTest1402\AutoTest1402\bin\Debug\AutoTest1402.pdb
+d:\Projects\MyProjects\AutoTest1402\AutoTest1402\bin\Debug\nunit.framework.dll
+d:\Projects\MyProjects\AutoTest1402\AutoTest1402\bin\Debug\WebDriver.dll
+d:\Projects\MyProjects\AutoTest1402\AutoTest1402\bin\Debug\WebDriver.Support.dll
+d:\Projects\MyProjects\AutoTest1402\AutoTest1402\bin\Debug\nunit.framework.xml
+d:\Projects\MyProjects\AutoTest1402\AutoTest1402\bin\Debug\WebDriver.xml
+d:\Projects\MyProjects\AutoTest1402\AutoTest1402\bin\Debug\WebDriver.Support.xml
+d:\Projects\MyProjects\AutoTest1402\AutoTest1402\obj\Debug\AutoTest1402.csprojResolveAssemblyReference.cache
+d:\Projects\MyProjects\AutoTest1402\AutoTest1402\obj\Debug\AutoTest1402.dll
+d:\Projects\MyProjects\AutoTest1402\AutoTest1402\obj\Debug\AutoTest1402.pdb
